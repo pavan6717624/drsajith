@@ -1,7 +1,7 @@
 :host ::ng-deep p-menubarsub {
     width: 100%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     font-weight: bolder;
 }
 .sticky {
@@ -17,5 +17,6 @@
     font-size:2em;
 
   }
+
 
   
